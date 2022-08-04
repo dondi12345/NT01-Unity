@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*/
+!Assets/_OurData/**
+!Assets/_Scenes/**
+
+#Ignore special
+
+*Assets/_OurData/FBX
