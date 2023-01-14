@@ -5,6 +5,7 @@
 
 ## Mô tả
     Thể loại: Idle.
+    Link: https://drive.google.com/file/d/13ke1z3am2f74thyPU9lxS7cJYwArtO8x/view?usp=sharing
 ##    Một số hình ảnh:
 ##    1. Xây dựng vương quốc
 <img src="https://user-images.githubusercontent.com/43608238/212266484-332375dc-f00b-4f3c-9594-bc7cbe85be87.PNG" alt="drawing" width="400"/>
